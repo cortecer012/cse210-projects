@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-
-        
+              
         int guess = 0;
 
         Random randomGenerator = new Random();
